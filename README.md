@@ -5,5 +5,5 @@ Python script that returns a spreadsheet file of Scholarships with essay prompts
 ```
 git clone https://github.com/MartinCaballero469/MyScholarshipList.git
 cd MyScholarshipList
-python3 -m pip install -r requirments.txt
+python3 -m pip install -r requirements.txt
 ```
